@@ -1,7 +1,7 @@
 # Weather Dashboard 🌦️
 A dynamic, responsive weather application that provides real‑time weather data and 5‑day forecasts for any city worldwide. Built with vanilla JavaScript, Chart.js, and the OpenWeatherMap API.
 
-# 🚀 Live Demos
+# 🚀 Live App
 
 * Netlify: https://abu-syed-excelerate-app.netlify.app
 
